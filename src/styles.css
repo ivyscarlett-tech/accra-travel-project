@@ -267,4 +267,15 @@ footer h3 {
     display: block;
   }
 
+
+@media (max-width: 480px) {
+  section {
+    padding: 30px 15px;
+  }
+
+  .instagram-media {
+    min-width: 100%;
+  }
+}
+
 }
